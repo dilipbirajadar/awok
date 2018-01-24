@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="editextBackColor">#49dcdbdb</color>
+    <color name="editextColor">#777170</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#fdc7c5c5</color>
+
+    <color name="textColor">#FFFFFF</color>
+    <color name="gradient_pink">#ee3c69</color>
+    <color name="gradient_pink_faint">#eca3b5</color>
+    <color name="gradient_orange">#ff8400</color>
+    <color name="gradient_orange_faint">#b0fdc78d</color>
+    <color name="text_color_dark_grey">#58595b</color>
+    <color name="select_user_text_view">#a7a7a7</color>
+    <color name="profile_line_color">#55dfdfdf</color>
+    <color name="light_text_color">#a29d9c</color>
+    <color name="semi_transparent">#41000000</color>
+    <color name="progress_background">#6f000000</color>
+    <color name="black">#c0000000</color>
+    <color name="trending_light_grey">#c3c3c3</color>
+
+    <color name="theme_primary">#2196F3</color>
+
+    <color name="theme_primary_text">#212121</color>
+    <color name="theme_secondary_text">#727272</color>
+    <color name="theme_primary_text_inverted">#ffffff</color>
+    <color name="theme_secondary_text_inverted">#8affffff</color>
+    <color name="theme_icons">#FFFFFF</color>
+    <color name="theme_divider">#B6B6B6</color>
+</resources>
